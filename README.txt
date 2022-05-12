@@ -1,30 +1,7 @@
-Dimension by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Hello! My name is Sophia, and this is my portfolio. You can check it out at jysophia.github.io/portfolio
 
+A brief overview of me: I'm a student pursuing a Bachelor of Computer Science degree at the University of British Columbia. My background is in public health - my previous degrees from the University of Toronto (Bachelor of Arts, Health Studies and Sociology) and Western University (Master of Public Health).
 
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
+I am actively looking for a 4 or 8-month co-op position starting Fall 2022. I love to learn and get my hands on any opportunity to challenge myself. If you'd like to discuss my experiences, please e-mail me at jysophiakim@gmail.com
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Have a lovely day!
